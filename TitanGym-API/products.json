@@ -1,0 +1,1133 @@
+[
+
+  {
+
+    "name": "Whey Protein Chocolate",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 39.99,
+
+    "stock": 50,
+
+    "weight": "2kg",
+
+    "flavor": "Chocolate",
+
+    "description": "Proteína concentrada de suero ideal para aumentar y mantener la masa muscular.",
+
+    "image": "/images/proteina-chocolate.webp",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 156,
+
+    "sku": "PRO-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Whey Protein Vainilla",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 39.99,
+
+    "stock": 45,
+
+    "weight": "2kg",
+
+    "flavor": "Vainilla",
+
+    "description": "Proteína de suero con sabor vainilla y alta concentración proteica.",
+
+    "image": "/images/Whey-Protein-80_Vanilla_2kg_01.jpg",
+
+    "featured": true,
+
+    "rating": 4.7,
+
+    "reviews": 143,
+
+    "sku": "PRO-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Whey Protein Fresa",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 39.99,
+
+    "stock": 40,
+
+    "weight": "2kg",
+
+    "flavor": "Fresa",
+
+    "description": "Proteína de suero con sabor fresa para recuperación muscular.",
+
+    "image": "/images/whey-proteina-fresa-2kg.jpg",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 127,
+
+    "sku": "PRO-003",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Isolate Protein Chocolate",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 49.99,
+
+    "stock": 30,
+
+    "weight": "2kg",
+
+    "flavor": "Chocolate",
+
+    "description": "Aislado de proteína con bajo contenido en grasas y azúcares.",
+
+    "image": "/images/isolate-proteina-chocolate.png",
+
+    "featured": true,
+
+    "rating": 4.9,
+
+    "reviews": 214,
+
+    "sku": "PRO-004",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Isolate Protein Vainilla",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 49.99,
+
+    "stock": 35,
+
+    "weight": "2kg",
+
+    "flavor": "Vainilla",
+
+    "description": "Aislado de proteína premium de rápida absorción.",
+
+    "image": "/images/vainilla-isolate.webp",
+
+    "featured": false,
+
+    "rating": 4.8,
+
+    "reviews": 189,
+
+    "sku": "PRO-005",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Casein Protein",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 44.99,
+
+    "stock": 25,
+
+    "weight": "1.8kg",
+
+    "flavor": "Chocolate",
+
+    "description": "Proteína de liberación lenta ideal para la noche.",
+
+    "image": "/images/on_casein.png",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 111,
+
+    "sku": "PRO-006",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Vegan Protein Chocolate",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 42.99,
+
+    "stock": 20,
+
+    "weight": "1kg",
+
+    "flavor": "Chocolate",
+
+    "description": "Proteína vegetal elaborada con guisante y arroz.",
+
+    "image": "/images/vegana-chocolate.webp",
+
+    "featured": false,
+
+    "rating": 4.5,
+
+    "reviews": 88,
+
+    "sku": "PRO-007",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Vegan Protein Cookies",
+
+    "category": "Proteínas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 42.99,
+
+    "stock": 15,
+
+    "weight": "1kg",
+
+    "flavor": "Cookies",
+
+    "description": "Proteína vegetal con sabor galleta.",
+
+    "image": "/images/vegana-cookies.webp",
+
+    "featured": false,
+
+    "rating": 4.4,
+
+    "reviews": 73,
+
+    "sku": "PRO-008",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "Creatine Monohydrate 300g",
+
+    "category": "Creatinas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 19.99,
+
+    "stock": 60,
+
+    "weight": "300g",
+
+    "flavor": "Sin sabor",
+
+    "description": "Creatina monohidrato pura para mejorar el rendimiento.",
+
+    "image": "/images/creatina-300g.webp",
+
+    "featured": true,
+
+    "rating": 4.9,
+
+    "reviews": 310,
+
+    "sku": "CRE-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Creatine Monohydrate 500g",
+
+    "category": "Creatinas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 24.99,
+
+    "stock": 50,
+
+    "weight": "500g",
+
+    "flavor": "Sin sabor",
+
+    "description": "Formato ahorro de creatina monohidratada.",
+
+    "image": "/images/creatina-500g.webp",
+
+    "featured": true,
+
+    "rating": 4.9,
+
+    "reviews": 245,
+
+    "sku": "CRE-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Creatine Creapure",
+
+    "category": "Creatinas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 29.99,
+
+    "stock": 40,
+
+    "weight": "500g",
+
+    "flavor": "Sin sabor",
+
+    "description": "Creatina premium micronizada.",
+
+    "image": "/images/creapure-proteina-500.png",
+
+    "featured": true,
+
+    "rating": 5.0,
+
+    "reviews": 198,
+
+    "sku": "CRE-003",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Creatine Electrolytes",
+
+    "category": "Creatinas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 27.99,
+
+    "stock": 35,
+
+    "weight": "400g",
+
+    "flavor": "Lima",
+
+    "description": "Creatina combinada con minerales y electrolitos.",
+
+    "image": "/images/creatina-electrolitros-400g.avif",
+
+    "featured": false,
+
+    "rating": 4.7,
+
+    "reviews": 95,
+
+    "sku": "CRE-004",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "Pre Workout Extreme",
+
+    "category": "Pre-entrenos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 29.99,
+
+    "stock": 30,
+
+    "weight": "300g",
+
+    "flavor": "Frutos Rojos",
+
+    "description": "Máxima energía y concentración para entrenamientos intensos.",
+
+    "image": "/images/preentreno-extreme-300g.webp",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 166,
+
+    "sku": "PRE-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Pre Workout Focus",
+
+    "category": "Pre-entrenos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 27.99,
+
+    "stock": 30,
+
+    "weight": "300g",
+
+    "flavor": "Mango",
+
+    "description": "Mejora la concentración durante el entrenamiento.",
+
+    "image": "/images/preentreno-focos-300g.webp",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 101,
+
+    "sku": "PRE-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Pre Workout Energy",
+
+    "category": "Pre-entrenos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 28.99,
+
+    "stock": 25,
+
+    "weight": "300g",
+
+    "flavor": "Sandía",
+
+    "description": "Impulso energético para cualquier sesión deportiva.",
+
+    "image": "/images/peentreno-energy-300g.jpg",
+
+    "featured": false,
+
+    "rating": 4.7,
+
+    "reviews": 115,
+
+    "sku": "PRE-003",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "Pre Workout Pump",
+
+    "category": "Pre-entrenos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 31.99,
+
+    "stock": 20,
+
+    "weight": "300g",
+
+    "flavor": "Piña",
+
+    "description": "Pre-entreno orientado al bombeo muscular.",
+
+    "image": "/images/preentreno-pump-300g.jpg",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 97,
+
+    "sku": "PRE-004",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Pre Workout Stimulant Free",
+
+    "category": "Pre-entrenos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 25.99,
+
+    "stock": 20,
+
+    "weight": "250g",
+
+    "flavor": "Naranja",
+
+    "description": "Sin estimulantes, apto para entrenar por la tarde.",
+
+    "image": "/images/preentreno-stimfree-300g.webp",
+
+    "featured": false,
+
+    "rating": 4.5,
+
+    "reviews": 70,
+
+    "sku": "PRE-005",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "BCAA Recovery",
+
+    "category": "Aminoácidos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 22.99,
+
+    "stock": 50,
+
+    "weight": "400g",
+
+    "flavor": "Lima Limón",
+
+    "description": "BCAA para recuperación muscular.",
+
+    "image": "/images/combat-bcaarecovery-400g.webp",
+
+    "featured": false,
+
+    "rating": 4.7,
+
+    "reviews": 89,
+
+    "sku": "AMI-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "EAA Essentials",
+
+    "category": "Aminoácidos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 24.99,
+
+    "stock": 40,
+
+    "weight": "400g",
+
+    "flavor": "Frutas Tropicales",
+
+    "description": "Aminoácidos esenciales para deportistas.",
+
+    "image": "/images/EAA-essentials-400g.jpg",
+
+    "featured": false,
+
+    "rating": 4.8,
+
+    "reviews": 94,
+
+    "sku": "AMI-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Glutamine Pure",
+
+    "category": "Aminoácidos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 19.99,
+
+    "stock": 45,
+
+    "weight": "500g",
+
+    "flavor": "Sin sabor",
+
+    "description": "L-Glutamina para recuperación deportiva.",
+
+    "image": "/images/glutamine-pure-body-nutrition-500-g-1.jpg",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 77,
+
+    "sku": "AMI-003",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Amino Recovery Stack",
+
+    "category": "Aminoácidos",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 26.99,
+
+    "stock": 35,
+
+    "weight": "450g",
+
+    "flavor": "Melocotón",
+
+    "description": "Combinación avanzada de aminoácidos.",
+
+    "image": "/images/AMINO_RECOVERY_ENERGY.webp",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 61,
+
+    "sku": "AMI-004",
+
+    "isAvailable": true
+
+  },
+
+
+
+  {
+
+    "name": "Multivitamin Complete",
+
+    "category": "Vitaminas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 14.99,
+
+    "stock": 100,
+
+    "weight": "90 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Complejo multivitamínico diseñado para complementar la alimentación diaria.",
+
+    "image": "/images/multivitamina.webp",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 174,
+
+    "sku": "VIT-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Omega 3 Premium",
+
+    "category": "Vitaminas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 12.99,
+
+    "stock": 90,
+
+    "weight": "120 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Ácidos grasos esenciales Omega 3 para complementar una dieta equilibrada.",
+
+    "image": "/images/omega3-120.jpg",
+
+    "featured": false,
+
+    "rating": 4.7,
+
+    "reviews": 132,
+
+    "sku": "VIT-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Vitamin D3 4000IU",
+
+    "category": "Vitaminas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 11.99,
+
+    "stock": 85,
+
+    "weight": "120 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Vitamina D3 en formato de alta dosificación.",
+
+    "image": "/images/solgar-vitamina-d3-4000-ui-120-capsulas-vegetales.jpg",
+
+    "featured": false,
+
+    "rating": 4.8,
+
+    "reviews": 98,
+
+    "sku": "VIT-003",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Magnesium Complex",
+
+    "category": "Vitaminas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 13.99,
+
+    "stock": 80,
+
+    "weight": "90 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Complejo de magnesio para complementar las necesidades nutricionales.",
+
+    "image": "/images/magnesio-90.avif",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 76,
+
+    "sku": "VIT-004",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Zinc Support",
+
+    "category": "Vitaminas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 9.99,
+
+    "stock": 95,
+
+    "weight": "90 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Complemento de zinc para el día a día.",
+
+    "image": "/images/zinc-90capsulas.webp",
+
+    "featured": false,
+
+    "rating": 4.5,
+
+    "reviews": 68,
+
+    "sku": "VIT-005",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "Fat Burner Advanced",
+
+    "category": "Quemagrasas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 27.99,
+
+    "stock": 40,
+
+    "weight": "60 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Complemento pensado para acompañar fases de definición.",
+
+    "image": "/images/quemagrasas-90.webp",
+
+    "featured": true,
+
+    "rating": 4.7,
+
+    "reviews": 145,
+
+    "sku": "QUE-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Thermogenic Formula",
+
+    "category": "Quemagrasas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 29.99,
+
+    "stock": 35,
+
+    "weight": "60 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Fórmula termogénica para deportistas avanzados.",
+
+    "image": "/images/thermogenic-fat-burner-60.webp",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 103,
+
+    "sku": "QUE-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "CLA Formula",
+
+    "category": "Quemagrasas",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 24.99,
+
+    "stock": 30,
+
+    "weight": "90 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Complemento basado en ácido linoleico conjugado.",
+
+    "image": "/images/CLA-90.webp",
+
+    "featured": false,
+
+    "rating": 4.5,
+
+    "reviews": 89,
+
+    "sku": "QUE-003",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "Mass Gainer 3kg",
+
+    "category": "Ganadores de peso",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 44.99,
+
+    "stock": 25,
+
+    "weight": "3kg",
+
+    "flavor": "Chocolate",
+
+    "description": "Ganador de peso rico en proteínas y carbohidratos.",
+
+    "image": "/images/gainer-chocolate.webp",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 157,
+
+    "sku": "GAN-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Mass Gainer 5kg",
+
+    "category": "Ganadores de peso",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 59.99,
+
+    "stock": 20,
+
+    "weight": "5kg",
+
+    "flavor": "Chocolate",
+
+    "description": "Formato ahorro para planes de aumento de masa muscular.",
+
+    "image": "/images/gainer-chocolate-5kg.webp",
+
+    "featured": true,
+
+    "rating": 4.9,
+
+    "reviews": 122,
+
+    "sku": "GAN-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Hard Gainer Pro",
+
+    "category": "Ganadores de peso",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 54.99,
+
+    "stock": 15,
+
+    "weight": "4kg",
+
+    "flavor": "Vainilla",
+
+    "description": "Fórmula hipercalórica para deportistas con metabolismo rápido.",
+
+    "image": "/images/hard-gainer-pro-4kg-vainilla.webp",
+
+    "featured": false,
+
+    "rating": 4.7,
+
+    "reviews": 81,
+
+    "sku": "GAN-003",
+
+    "isAvailable": true
+
+  },
+
+
+  {
+
+    "name": "Recovery Formula",
+
+    "category": "Recuperación",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 26.99,
+
+    "stock": 30,
+
+    "weight": "500g",
+
+    "flavor": "Naranja",
+
+    "description": "Fórmula de recuperación para después del entrenamiento.",
+
+    "image": "/images/recovery-500g-naranja.webp",
+
+    "featured": true,
+
+    "rating": 4.8,
+
+    "reviews": 93,
+
+    "sku": "REC-001",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Electrolyte Hydration",
+
+    "category": "Recuperación",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 18.99,
+
+    "stock": 45,
+
+    "weight": "400g",
+
+    "flavor": "Limón",
+
+    "description": "Bebida en polvo con electrolitos para la hidratación deportiva.",
+
+    "image": "/images/Re-Lyte-Electrolyte-Mix-Lemon-Lime-400g.jpeg",
+
+    "featured": false,
+
+    "rating": 4.6,
+
+    "reviews": 74,
+
+    "sku": "REC-002",
+
+    "isAvailable": true
+
+  },
+
+  {
+
+    "name": "Joint Support",
+
+    "category": "Recuperación",
+
+    "brand": "TitanGym Nutrition",
+
+    "price": 21.99,
+
+    "stock": 35,
+
+    "weight": "120 cápsulas",
+
+    "flavor": "Cápsulas",
+
+    "description": "Complemento orientado al cuidado articular de deportistas.",
+
+    "image": "/images/joint-suport-120capsulas.webp",
+
+    "featured": false,
+
+    "rating": 4.7,
+
+    "reviews": 66,
+
+    "sku": "REC-003",
+
+    "isAvailable": true
+
+  }
+
+]
+ 
